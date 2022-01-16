@@ -1,6 +1,7 @@
 # st
 
 My simple terminal setup.
+https://st.suckless.org/
 
 ## Required
 To install it

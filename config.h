@@ -5,9 +5,8 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Consolas Ligaturized:style=Regular:pixelsize=15:antialias=true:autohint=true";
-static char *font2[] = { "Consolas Ligaturized:style=Regular:pixelsize=15:antialias=true:autohint=true" };
-
+static char *font = "Consolasligaturizedv2:style=Regular:pixelsize=15:antialias=true:autohint=true,xft:Source Code Pro for Powerline:style=Regular:pixelsize=15:antialias=true:autohint=true";
+static char *font2[] = {"Consolasligaturizedv2:style=Regular:pixelsize=15:antialias=true:autohint=true,xft:Source Code Pro for Powerline:style=Regular:pixelsize=15:antialias=true:autohint=true";};
 
 static int borderpx = 5;
 
